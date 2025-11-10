@@ -3,7 +3,7 @@
 📊 **Overview**
 The project combines SQL for data analysis and Power BI for interactive visualizations to analyze Urban Company’s business performance. The goal was to optimize data integrity, automate repetitive tasks using stored procedures, and derive actionable business insights across revenue, customers, and service operations. 
 
-The read me consists of KPI's values, Insights by segment (Business and Revenue Analysis, Customer Analysis, Service Analysis, Service Provider Analysis, Profit and Loss Analysis) followed by weakness and possible opportunities. 
+The read me file consists of KPI's values, Insights by segment (Business and Revenue Analysis, Customer Analysis, Service Analysis, Service Provider Analysis, Profit and Loss Analysis) followed by weakness and possible opportunities. 
 
 Dashboard Link : https://shorturl.at/ueoXe
 
