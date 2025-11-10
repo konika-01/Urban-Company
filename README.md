@@ -5,7 +5,7 @@ The project combines SQL for data analysis and Power BI for interactive visualiz
 
 The read me consists of KPI's values, Insights by segment (Business and Revenue Analysis, Customer Analysis, Service Analysis, Service Provider Analysis, Profit and Loss Analysis) followed by weakness and possible opportunities. 
 
-Dashboard Link : https://app.powerbi.com/groups/me/reports/a193bef6-04df-4283-9e8b-3b865a4a94d3/76bfbdb885e635290396?experience=power-bi
+Dashboard Link : https://shorturl.at/ueoXe
 
 🧾 **KPI's	Value**
 Total Profit	₹1.6M
