@@ -8,9 +8,12 @@ The read me consists of KPI's values, Insights by segment (Business and Revenue 
 Dashboard Link : https://shorturl.at/ueoXe
 
 🧾 **KPI's	Value**
--> Total Profit	₹1.6M
--> Total Orders	3,475
--> Avg Profit per Order	₹ 332
+1.Total Profit ₹1.6M
+2. Total Orders 3,475
+
+1. Total Profit	₹1.6M
+2. Total Orders	3,475
+3. Avg Profit per Order	₹ 332
 -> Avg Revenue per Order	₹ 966.50
 -> Total Customers	1,502
 -> Returning Customers	70.60%
