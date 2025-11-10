@@ -28,12 +28,12 @@ Dashboard Link : https://shorturl.at/ueoXe
 -> Seasonal peaks: Profit spikes around June–July, due to appliance servicing demand.
 
 -> Top categories by profit:
-Pest Control – ₹445K (35%)
-Appliance Cleaning – ₹383K (26%)
-Salon – ₹345K (20%)
-Spa – ₹242K (16%)
-Home Repair – ₹34K (2%)
-
+1. Pest Control – ₹445K (35%)
+2. Appliance Cleaning – ₹383K (26%)
+3. Salon – ₹345K (20%)
+4. Spa – ₹242K (16%)
+5. Home Repair – ₹34K (2%)
+   
 -> **Interpretation**:
 Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify to balance profitability.
 
@@ -46,10 +46,10 @@ Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify
 -> Gender Split: 68% Female → higher adoption among women.
 
 -> Age Distribution:
-Adults (25–45 yrs): 43.9%
-Parents (40+ yrs): 30.4%
-Youth (18–25 yrs): 16%
-Seniors: 9.6%
+1. Adults (25–45 yrs): 43.9%
+2. Parents (40+ yrs): 30.4%
+3. Youth (18–25 yrs): 16%
+4. Seniors: 9.6%
 
 -> Customer Interests: Appliances (38%), Beauty & Spa (24%), Cleaning & Pest Control (22%).
 
@@ -84,10 +84,10 @@ Operations are efficient; however, the Repair category underperforms—could exp
 -> Completion Rate: 89.6%
 
 -> Source Breakdown:
-Self: 35.6%
-Referral: 28.8%
-Field Agent: 17.4%
-Unknown: 18%
+1. Self: 35.6%
+2. Referral: 28.8%
+3. Field Agent: 17.4%
+4. Unknown: 18%
 
 -> Top Performers: Aarav Ghosh, Arjun Chopra, Diya Chopra, Krishna Verma, Simran Bose, Simran Sharma, Vivaan Das.
 
