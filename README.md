@@ -33,7 +33,7 @@ Salon – ₹345K (20%)
 Spa – ₹242K (16%)
 Home Repair – ₹34K (2%)
 
-Interpretation:
+**Interpretation**:
 Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify to balance profitability.
 
 2. Customer Analysis
@@ -54,7 +54,7 @@ Customer Interests: Appliances (38%), Beauty & Spa (24%), Cleaning & Pest Contro
 
 Acquisition Channels: App (dominant), Website (moderate), Field Agents (low).
 
-Interpretation:
+**Interpretation**:
 Urban Company has strong loyalty and app engagement. Opportunity: target inactive users (16.8%) with app-based campaigns or subscription offers.
 
 3. Service Analysis
@@ -70,7 +70,7 @@ Peak on Tuesday, followed by Thursday and Monday.
 
 Highest activity: 9 AM–6 PM.
 
-Interpretation:
+**Interpretation**:
 Operations are efficient; however, the Repair category underperforms—could explore skill or awareness gaps.
 
 4. Service Provider Analysis
@@ -93,7 +93,7 @@ Unknown: 18%
 
 Top Performers: Aarav Ghosh, Arjun Chopra, Diya Chopra, Krishna Verma, Simran Bose, Simran Sharma, Vivaan Das.
 
-Interpretation:
+**Interpretation**:
 Self-onboarding is strong → indicates trust among freelancers. Incentives could further boost Repair & Spa performance.
 
 5. Profit & Loss Analysis
@@ -111,7 +111,7 @@ Carted ₹6M → Paid ₹5M → Completed ₹4M → ~74.5% conversion
 
 Coupon Usage: 1.15% → High organic demand, scope for promotions.
 
-Interpretation:
+**Interpretation**:
 Overall profitable and efficient; enhancing completion and payment processes can lift margins by ~10–15%.
 
 
@@ -123,13 +123,10 @@ Overall profitable and efficient; enhancing completion and payment processes can
 
 **Opportunities**
 
-Offer bundled home-care packages combining top and low-performing services
-
-Introduce referral & subscription campaigns targeting inactive customers
-
-Optimize checkout funnel to reduce drop-offs from carted to completed orders
-
-Incentivize low-performing service categories to balance provider workload
+1.Offer bundled home-care packages combining top and low-performing services
+2.Introduce referral & subscription campaigns targeting inactive customers
+3.Optimize checkout funnel to reduce drop-offs from carted to completed orders
+4.Incentivize low-performing service categories to balance provider workload
 
 
 
