@@ -14,11 +14,10 @@ Dashboard Link : https://shorturl.at/ueoXe
 1. Total Profit	₹1.6M
 2. Total Orders	3,475
 3. Avg Profit per Order	₹ 332
--> Avg Revenue per Order	₹ 966.50
--> Total Customers	1,502
--> Returning Customers	70.60%
--> Total Revenue	₹4.7M
--> Profit Target Achieved	85%
+4. Total Customers	1,502
+5. Returning Customers	70.60%
+6. Total Revenue	₹4.7M
+7. Profit Target Achieved	85%
 
 🧩 **Insights by Segment**
 
@@ -126,10 +125,11 @@ Overall profitable and efficient; enhancing completion and payment processes can
 
 **Opportunities**
 
-1.Offer bundled home-care packages combining top and low-performing services
-2.Introduce referral & subscription campaigns targeting inactive customers
-3.Optimize checkout funnel to reduce drop-offs from carted to completed orders
-4.Incentivize low-performing service categories to balance provider workload
+1. Offer bundled home-care packages combining top and low-performing services
+2. Introduce referral & subscription campaigns targeting inactive customers
+3. Optimize checkout funnel to reduce drop-offs from carted to completed orders
+4. Incentivize low-performing service categories to balance provider workload   
+
 
 
 
