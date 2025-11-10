@@ -1,6 +1,6 @@
 # Urban-Company
 
-📊 **Overview**
+### `📊 **Overview**`
 The project combines SQL for data analysis and Power BI for interactive visualizations to analyze Urban Company’s business performance. The goal was to optimize data integrity, automate repetitive tasks using stored procedures, and derive actionable business insights across revenue, customers, and service operations. 
 
 The read me file consists of KPI's values, Insights by segment (Business and Revenue Analysis, Customer Analysis, Service Analysis, Service Provider Analysis, Profit and Loss Analysis) followed by weakness and possible opportunities. 
@@ -9,7 +9,7 @@ Dashboard Link : https://shorturl.at/ueoXe
 
 ---
 
-🧾 **KPI's	Value**
+### `🧾 KPI's	Value`
 1.Total Profit ₹1.6M
 2. Total Orders 3,475
 
@@ -22,9 +22,9 @@ Dashboard Link : https://shorturl.at/ueoXe
 7. Profit Target Achieved	85%
 
 ---
-🧩 **Insights by Segment**
+### `🧩 **Insights by Segment**`
 
-### Business and Revenue Analysis
+### `Business and Revenue Analysis`
 
 -> Revenue growth: ₹0.6M (2023) → ₹2.1M (2024) → ₹2.0M (2025).
 
@@ -41,7 +41,7 @@ Dashboard Link : https://shorturl.at/ueoXe
 Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify to balance profitability.
 
 ---
-### Customer Analysis
+### `Customer Analysis`
    
 -> Active Customers: 89%
 
@@ -63,7 +63,7 @@ Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify
 Urban Company has strong loyalty and app engagement. Opportunity: target inactive users (16.8%) with app-based campaigns or subscription offers.
 
 ---
-### Service Analysis
+### `Service Analysis`
 
 -> Total Categories: 5
 
@@ -81,7 +81,7 @@ Urban Company has strong loyalty and app engagement. Opportunity: target inactiv
 Operations are efficient; however, the Repair category underperforms—could explore skill or awareness gaps.
 
 ---
-### Service Provider Analysis
+### `Service Provider Analysis`
 
 -> Total Providers: 149
 
@@ -101,7 +101,7 @@ Operations are efficient; however, the Repair category underperforms—could exp
 Self-onboarding is strong → indicates trust among freelancers. Incentives could further boost Repair & Spa performance.
 
 ---
-### Profit & Loss Analysis
+### `Profit & Loss Analysis`
 
 -> Total Revenue: ₹4.7M
 
@@ -120,14 +120,14 @@ Carted ₹6M → Paid ₹5M → Completed ₹4M → ~74.5% conversion
 Overall profitable and efficient; enhancing completion and payment processes can lift margins by ~10–15%.
 
 ---
-### Weakness
+### `Weakness`
 1. Repair category is underperforming.
 2. Low coupon adoption
 3. Profit target achived 85%
 4. Mid-year customer dips.
 
 ---
-### Opportunities
+### `Opportunities`
 
 1. Offer bundled home-care packages combining top and low-performing services
 2. Introduce referral & subscription campaigns targeting inactive customers
