@@ -7,6 +7,8 @@ The read me file consists of KPI's values, Insights by segment (Business and Rev
 
 Dashboard Link : https://shorturl.at/ueoXe
 
+---
+
 🧾 **KPI's	Value**
 1.Total Profit ₹1.6M
 2. Total Orders 3,475
@@ -19,9 +21,10 @@ Dashboard Link : https://shorturl.at/ueoXe
 6. Total Revenue	₹4.7M
 7. Profit Target Achieved	85%
 
+---
 🧩 **Insights by Segment**
 
-1. Business and Revenue Analysis
+### Business and Revenue Analysis
 
 -> Revenue growth: ₹0.6M (2023) → ₹2.1M (2024) → ₹2.0M (2025).
 
@@ -37,7 +40,8 @@ Dashboard Link : https://shorturl.at/ueoXe
 -> **Interpretation**:
 Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify to balance profitability.
 
-2. Customer Analysis
+---
+### Customer Analysis
    
 -> Active Customers: 89%
 
@@ -58,7 +62,8 @@ Revenue relies heavily (~60%) on Pest Control & Appliance Cleaning → Diversify
 -> **Interpretation**:
 Urban Company has strong loyalty and app engagement. Opportunity: target inactive users (16.8%) with app-based campaigns or subscription offers.
 
-3. Service Analysis
+---
+### Service Analysis
 
 -> Total Categories: 5
 
@@ -75,7 +80,8 @@ Urban Company has strong loyalty and app engagement. Opportunity: target inactiv
 -> **Interpretation**:
 Operations are efficient; however, the Repair category underperforms—could explore skill or awareness gaps.
 
-4. Service Provider Analysis
+---
+### Service Provider Analysis
 
 -> Total Providers: 149
 
@@ -94,7 +100,8 @@ Operations are efficient; however, the Repair category underperforms—could exp
 -> **Interpretation**:
 Self-onboarding is strong → indicates trust among freelancers. Incentives could further boost Repair & Spa performance.
 
-5. Profit & Loss Analysis
+---
+### Profit & Loss Analysis
 
 -> Total Revenue: ₹4.7M
 
@@ -112,21 +119,23 @@ Carted ₹6M → Paid ₹5M → Completed ₹4M → ~74.5% conversion
 -> **Interpretation**:
 Overall profitable and efficient; enhancing completion and payment processes can lift margins by ~10–15%.
 
-
-**Weakness**
+---
+### Weakness
 1. Repair category is underperforming.
 2. Low coupon adoption
 3. Profit target achived 85%
 4. Mid-year customer dips.
 
-**Opportunities**
+---
+### Opportunities
 
 1. Offer bundled home-care packages combining top and low-performing services
 2. Introduce referral & subscription campaigns targeting inactive customers
 3. Optimize checkout funnel to reduce drop-offs from carted to completed orders
 4. Incentivize low-performing service categories to balance provider workload   
 
-
+---
+✍️ Konika Malik. 
 
 
 
